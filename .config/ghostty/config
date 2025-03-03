@@ -1,0 +1,21 @@
+font-family = "JetBrainsMono Nerd Font"
+font-size = 16
+
+shell-integration-features = no-cursor
+cursor-style = "block"
+cursor-style-blink = false
+
+theme = tokyonight
+
+background-opacity = 0.79
+
+window-decoration = false
+window-padding-balance = true
+
+
+# keybinds
+keybind = ctrl+space>r=reload_config
+keybind = ctrl+space>x=close_surface
+
+keybind = ctrl+space>s=new_split:right
+keybind = ctrl+space>h=new_split:down
